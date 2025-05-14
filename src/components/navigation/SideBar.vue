@@ -3,11 +3,9 @@
     class="flex h-screen flex-col justify-between border-e border-gray-100 bg-white"
   >
     <div class="px-4 py-6">
-      <span
-        class="grid h-10 w-32 place-content-center rounded-lg bg-gray-100 text-xs text-gray-600"
-      >
-        Logo
-      </span>
+      <div class="logo">
+        <img src="/images/logo.png" alt="" />
+      </div>
 
       <ul class="mt-6 space-y-4">
         <li class="my-2">
@@ -24,7 +22,9 @@
           <RouterLink
             to="/appointments"
             class="flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium"
-            :class="{ 'bg-teal-400 text-white': $route.path === '/appointments' }"
+            :class="{
+              'bg-teal-400 text-white': $route.path === '/appointments',
+            }"
           >
             <i class="pi pi-calendar text-lg"></i>
             Appointments

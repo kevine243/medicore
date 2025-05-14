@@ -24,6 +24,21 @@ const router = createRouter({
       name: "appointments",
       component: () => import("../views/Appointments.vue"),
     },
+    {
+      path: "/analytics",
+      name: "analytics",
+      component: () => import("../views/Stats.vue"),
+    },
+    {
+      path: "/notifications",
+      name: "notifications",
+      component: () => import("../views/Notifications.vue"),
+    },
+    {
+      path: "/settings",
+      name: "settings",
+      component: () => import("../views/Settings.vue"),
+    }
   ],
 });
 

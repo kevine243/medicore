@@ -43,23 +43,29 @@
     <div v-else>
       <p>Loading patient data...</p>
     </div>
-    <div class="">
+    <div class="shadow-md">
       <div class="detail-box flex gap-4">
-        <div class="phone-numberbox rounded-lg bg-gray-50 p-4 w-[33.33%]">
+        <div
+          class="phone-numberbox rounded-lg bg-gray-50 p-4 w-[33.33%] shadow-md"
+        >
           <div class="p-2 text-gray-600">
             <i class="pi pi-phone"></i>
             Phone Number
           </div>
           <span class="font-semibold">{{ patient.phone }}</span>
         </div>
-        <div class="phone-numberbox rounded-lg bg-gray-50 p-4 w-[33.33%]">
+        <div
+          class="phone-numberbox rounded-lg bg-gray-50 p-4 w-[33.33%] shadow-md"
+        >
           <div class="p-2 text-gray-600">
             <i class="pi pi-envelope"></i>
             Email
           </div>
           <span class="font-semibold">{{ patient.email }}</span>
         </div>
-        <div class="phone-numberbox rounded-lg bg-gray-50 p-4 w-[33.33%]">
+        <div
+          class="phone-numberbox rounded-lg bg-gray-50 p-4 w-[33.33%] shadow-md"
+        >
           <div class="p-2 text-gray-600">
             <i class="pi pi-plus"></i>
             Disease
