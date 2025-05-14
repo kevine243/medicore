@@ -1,0 +1,224 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 34,
+      "sex": "Female",
+      "disease": "Diabetes",
+      "doctor": "Dr. Smith",
+      "result": "Stable",
+      "email": "alice.johnson@example.com",
+      "phone": "+1234567890"
+    },
+    {
+      "id": 2,
+      "name": "Michael Lee",
+      "age": 47,
+      "sex": "Male",
+      "disease": "Hypertension",
+      "doctor": "Dr. Patel",
+      "result": "Improving",
+      "email": "michael.lee@example.com",
+      "phone": "+1234567891"
+    },
+    {
+      "id": 3,
+      "name": "Emma Davis",
+      "age": 29,
+      "sex": "Female",
+      "disease": "Asthma",
+      "doctor": "Dr. Kim",
+      "result": "Critical",
+      "email": "emma.davis@example.com",
+      "phone": "+1234567892"
+    },
+    {
+      "id": 4,
+      "name": "John Smith",
+      "age": 63,
+      "sex": "Male",
+      "disease": "Heart Disease",
+      "doctor": "Dr. Brown",
+      "result": "Stable",
+      "email": "john.smith@example.com",
+      "phone": "+1234567893"
+    },
+    {
+      "id": 5,
+      "name": "Olivia Martin",
+      "age": 40,
+      "sex": "Female",
+      "disease": "COVID-19",
+      "doctor": "Dr. Ahmed",
+      "result": "Recovered",
+      "email": "olivia.martin@example.com",
+      "phone": "+1234567894"
+    },
+    {
+      "id": 6,
+      "name": "Liam Brown",
+      "age": 52,
+      "sex": "Male",
+      "disease": "Cancer",
+      "doctor": "Dr. Wilson",
+      "result": "Under Treatment",
+      "email": "liam.brown@example.com",
+      "phone": "+1234567895"
+    },
+    {
+      "id": 7,
+      "name": "Sophia Taylor",
+      "age": 26,
+      "sex": "Female",
+      "disease": "Migraine",
+      "doctor": "Dr. Miller",
+      "result": "Improving",
+      "email": "sophia.taylor@example.com",
+      "phone": "+1234567896"
+    },
+    {
+      "id": 8,
+      "name": "James Anderson",
+      "age": 39,
+      "sex": "Male",
+      "disease": "Kidney Stones",
+      "doctor": "Dr. Clark",
+      "result": "Recovered",
+      "email": "james.anderson@example.com",
+      "phone": "+1234567897"
+    },
+    {
+      "id": 9,
+      "name": "Isabella Moore",
+      "age": 31,
+      "sex": "Female",
+      "disease": "Anemia",
+      "doctor": "Dr. Lewis",
+      "result": "Stable",
+      "email": "isabella.moore@example.com",
+      "phone": "+1234567898"
+    },
+    {
+      "id": 10,
+      "name": "William White",
+      "age": 60,
+      "sex": "Male",
+      "disease": "Arthritis",
+      "doctor": "Dr. Robinson",
+      "result": "Under Treatment",
+      "email": "william.white@example.com",
+      "phone": "+1234567899"
+    },
+    {
+      "id": 11,
+      "name": "Mia Harris",
+      "age": 28,
+      "sex": "Female",
+      "disease": "Flu",
+      "doctor": "Dr. Scott",
+      "result": "Recovered",
+      "email": "mia.harris@example.com",
+      "phone": "+1234567810"
+    },
+    {
+      "id": 12,
+      "name": "Benjamin Hall",
+      "age": 45,
+      "sex": "Male",
+      "disease": "Tuberculosis",
+      "doctor": "Dr. Adams",
+      "result": "Critical",
+      "email": "benjamin.hall@example.com",
+      "phone": "+1234567811"
+    },
+    {
+      "id": 13,
+      "name": "Charlotte Young",
+      "age": 36,
+      "sex": "Female",
+      "disease": "Bronchitis",
+      "doctor": "Dr. Baker",
+      "result": "Improving",
+      "email": "charlotte.young@example.com",
+      "phone": "+1234567812"
+    },
+    {
+      "id": 14,
+      "name": "Henry Allen",
+      "age": 50,
+      "sex": "Male",
+      "disease": "Pneumonia",
+      "doctor": "Dr. Turner",
+      "result": "Stable",
+      "email": "henry.allen@example.com",
+      "phone": "+1234567813"
+    },
+    {
+      "id": 15,
+      "name": "Amelia King",
+      "age": 42,
+      "sex": "Female",
+      "disease": "Thyroid Issues",
+      "doctor": "Dr. Phillips",
+      "result": "Under Treatment",
+      "email": "amelia.king@example.com",
+      "phone": "+1234567814"
+    },
+    {
+      "id": 16,
+      "name": "Daniel Wright",
+      "age": 37,
+      "sex": "Male",
+      "disease": "Obesity",
+      "doctor": "Dr. Campbell",
+      "result": "Improving",
+      "email": "daniel.wright@example.com",
+      "phone": "+1234567815"
+    },
+    {
+      "id": 17,
+      "name": "Evelyn Lopez",
+      "age": 33,
+      "sex": "Female",
+      "disease": "Epilepsy",
+      "doctor": "Dr. Parker",
+      "result": "Stable",
+      "email": "evelyn.lopez@example.com",
+      "phone": "+1234567816"
+    },
+    {
+      "id": 18,
+      "name": "Joseph Hill",
+      "age": 59,
+      "sex": "Male",
+      "disease": "Stroke",
+      "doctor": "Dr. Evans",
+      "result": "Critical",
+      "email": "joseph.hill@example.com",
+      "phone": "+1234567817"
+    },
+    {
+      "id": 19,
+      "name": "Grace Green",
+      "age": 30,
+      "sex": "Female",
+      "disease": "Ulcer",
+      "doctor": "Dr. Edwards",
+      "result": "Recovered",
+      "email": "grace.green@example.com",
+      "phone": "+1234567818"
+    },
+    {
+      "id": 20,
+      "name": "Logan Nelson",
+      "age": 41,
+      "sex": "Male",
+      "disease": "Back Pain",
+      "doctor": "Dr. Collins",
+      "result": "Under Treatment",
+      "email": "logan.nelson@example.com",
+      "phone": "+1234567819"
+    }
+  ]
+}
